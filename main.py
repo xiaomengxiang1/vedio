@@ -1,5 +1,5 @@
 import streamlit as st
-from untils import generate_script
+from utils import generate_script
 
 st.title("🎬 视频脚本生成器")
 #侧边栏
